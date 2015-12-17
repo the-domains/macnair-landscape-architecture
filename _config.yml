@@ -1,0 +1,28 @@
+name: MacNair-Landscape-Architecture
+favicon: null
+layout_spectrum: 0.1833754617255181
+typography_spectrum: 0.6971636349335313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.234128104057163
+  lightness: 0.18876027106307447
+  saturation: 0.1163433501496911
+  rhythmicContrast: 0.80569081264548
+purpose: []
